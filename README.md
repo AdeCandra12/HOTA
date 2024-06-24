@@ -86,8 +86,5 @@ Proyek ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) unt
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau saran, silakan hubungi kami di [email@example.com](mailto:email@example.com).
+Jika Anda memiliki pertanyaan atau saran, silakan hubungi kami di [email@example.com](mailto:adecandra1500@gmail.com).
 
----
-
-Semoga ini membantu! Jika ada informasi tambahan yang ingin ditambahkan atau diubah, beri tahu saya.
